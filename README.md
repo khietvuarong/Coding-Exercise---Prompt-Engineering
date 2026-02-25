@@ -1,5 +1,4 @@
 # Coding-Exercise-Prompt-Engineering
-- Download the files and use Colab to open the the file on Colab, because of the Gemini API key!
-- I do include the test at the bottom of the code, you can check it out.
-- For Exercises, you can either use API key or Fallback mode, but I haven't pay for Gemeni API please don't use it 🥲🥲
+- Download the files and use Colab to open the the file on Colab, because of the Gemini API.
+- For Exercises, I used Secretkey from Google Colab, also named it SecretKey, do have API in it🥲🥲
 - Description: Class work exercise
