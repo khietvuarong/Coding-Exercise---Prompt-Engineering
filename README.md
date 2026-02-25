@@ -1,2 +1,2 @@
-# Coding-Exercise---Prompt-Engineering
+# Coding-Exercise-Prompt-Engineering
 Class work exercise
